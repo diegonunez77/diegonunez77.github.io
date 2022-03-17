@@ -1,0 +1,50 @@
+body {
+    background: #C9FFBF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #FFAFBD, #C9FFBF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+}
+
+header {
+    background-image: url(../images/pattern.webp);
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.subSection {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen
+}
+
+.subSection2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.subSection3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.blueText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: blue;
+    font-size: auto;
+}
